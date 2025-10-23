@@ -1,6 +1,6 @@
 "use client";
 
-import { Content, isFilled } from '@prismicio/client'
+import { Content } from '@prismicio/client'
 import { PrismicNextImage, PrismicNextLink } from '@prismicio/next'
 import React from 'react'
 
