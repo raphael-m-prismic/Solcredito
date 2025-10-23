@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: #2b2e42;
+    background-color: #fff;
+}
+h2{
+    font-size: 42px;
+}
